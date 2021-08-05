@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Knowlege Store</string>
+    <string name="button_name">Log in</string>
+    <string name="button_signUp">Sign Up</string>
+    <string name="signUp">Are you not resgistered? Sign Up</string>
+    <string name="logIn">Already resgistered? log In</string>
+    <string name="welcome">Welcome User</string>
+    <string name="goToAdminLogin">Admin? Click Here</string>
+    <string name="goToUserLogin">Not Admin? Click Here</string>
+    <string name="forgetPass">Forget Password?</string>
+    <string name="reset_pass_mail">Enter Your E-mail</string>
+    <string name="reset_link_button">Reset Password</string>
+    <string name="Products">Product Panel</string>
+    <string name="ProductName">Name:</string>
+    <string name="ProductType">Type:</string>
+    <string name="ProductPrice">Price</string>
+    <string name="ProductQuantity">Quantity:</string>
+
+</resources>

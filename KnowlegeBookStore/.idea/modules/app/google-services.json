@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "339043290229",
+    "firebase_url": "https://knowlege-book-store.firebaseio.com",
+    "project_id": "knowlege-book-store",
+    "storage_bucket": "knowlege-book-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339043290229:android:561ee48e384ea2674afc3c",
+        "android_client_info": {
+          "package_name": "com.aiub.knowlegebookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339043290229-3iqomhonrngk9vs5m5iu8p1sq6q1rb3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiub.knowlegebookstore",
+            "certificate_hash": "0c6c69fe299ccd069c4d2e94a7cc05ea6f80296d"
+          }
+        },
+        {
+          "client_id": "339043290229-md1stpmd7pirqrfk5jdbdl0kvp1rlvgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiub.knowlegebookstore",
+            "certificate_hash": "86f24dc31faf47a3914fd0606413886c2bcf9136"
+          }
+        },
+        {
+          "client_id": "339043290229-dptcqd8eqic2874ain7k2v9fua8u93fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC01q2r8-O3RFWvbR39E-DIgrJeLXfR-AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339043290229-dptcqd8eqic2874ain7k2v9fua8u93fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

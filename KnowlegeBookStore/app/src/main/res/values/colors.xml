@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C181B</color>
+    <color name="colorPrimaryDark">#DF321B1F</color>
+    <color name="colorAccent">#D3602537</color>
+    <color name="back_color">#806B6E</color>
+    <color name="back_reset_pass">#CD1E1212</color>
+    <color name="ProductPanel">#D83E2424</color>
+    <color name="Product">#E6F3EBEB</color>
+
+
+
+</resources>
